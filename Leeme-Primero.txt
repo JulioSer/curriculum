@@ -1,0 +1,3 @@
+   Curriculum Vitae de Julio Serrano.
+
+ Se abre con el archivo Curriculum.html

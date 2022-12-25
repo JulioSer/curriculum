@@ -1,0 +1,8 @@
+a:link,
+a:visite {
+  text-decoration: none;
+}
+a:hover {
+  background-color: rgb(109, 149, 195);
+  color: white;
+}
